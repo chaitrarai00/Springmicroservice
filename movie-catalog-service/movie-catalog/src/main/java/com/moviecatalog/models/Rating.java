@@ -1,4 +1,4 @@
-package com.ratingsdataservice.model;
+package com.moviecatalog.models;
 
 public class Rating {
 	
